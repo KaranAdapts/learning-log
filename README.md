@@ -1,4 +1,4 @@
 # Learning log
-A daily progress tracker of me learning to code. 
+A Monthly progress tracker of me learning to code. 
 
-## Daily Progress 
+## Monthly Progress 
